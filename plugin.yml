@@ -1,0 +1,8 @@
+name: Vouch
+api: 5.0.0
+version: 1.0.0
+main: vapeh\vouch\Loader
+
+permissions:
+  setcmd.command:
+    default: op
